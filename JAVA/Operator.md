@@ -181,12 +181,3 @@ String str2 = new String("abc");
 | i ^= 3;      | i = i ^ 3;        |
 | i │= 3;      | i = i │ 3;        |
 | i *= 10 + j; | i = i * (10 + j); |
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
