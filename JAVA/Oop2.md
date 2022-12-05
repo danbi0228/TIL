@@ -9,6 +9,7 @@
 
 ### 4.2 오버로딩의 예
 : **println메서드**
+<br> 호출할 때 매개변수로 넘겨주는 값의 타입에 따라서 위의 오버로딩된 메서드들 중의 하나가 선택되어 실행되는 것
 ```
 void println()
 void println(boolean x)
@@ -21,7 +22,7 @@ void println(long x)
 void println(Object x)
 void println(String x)
 ```
-**println메서드**를 호출할 때 매개변수로 넘겨주는 값의 타입에 따라서 위의 오버로딩된 메서드들 중의 하나가 선택되어 실행되는 것
+
 
 ```
 int add(int a, int b) { return a+b; }
