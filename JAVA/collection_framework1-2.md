@@ -102,7 +102,7 @@ while((obj = pq.poll()) != null)
 : Queue의 변형으로 한 쪽 끝으로만 추가/삭제할 수 있는 Queue와 달리, **Deque**(**덱**, 또는 디큐)은 **양쪽 끝에 추가/삭제가 가능**하다.
 <br> Deque의 조상은 Queue이며, 구현체로는 ArrayDeque와 LinkedList 등이 있다.
 
-![queue_deque](../data/queue_deque.JPG)
+![queue_deque](../data/queue_deque.jpg)
 
 | Deque       |  Queue  | Stack  |
 |:------------|:-------:|:------:|
