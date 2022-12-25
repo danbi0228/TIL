@@ -129,9 +129,3 @@ Direction클래스의 static상수 EAST, SOUTH, WEST, NORTH의 값은 객체의 
 
 추상메서드를 새로 추가하면, 클래스 앞에도 '**abstract**'를 붙여줘야 하고,
 각 static상수들도 추상 메서드를 구현해주어야 한다.
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br>
